@@ -1,0 +1,17 @@
+.btn-agregar {
+  border: none;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(5, 5, 49);
+  color: white;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  font-size: larger;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in;
+}
+
+.btn-agregar:hover {
+  background-color: blueviolet;
+}

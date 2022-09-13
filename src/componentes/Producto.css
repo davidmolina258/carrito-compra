@@ -1,0 +1,17 @@
+.card {
+  margin: 0.5rem 0.5rem;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.36);
+}
+.card > img {
+  width: 100%;
+  height: auto;
+}
+.card > h2 {
+  text-align: center;
+}
+.card > p {
+  text-align: center;
+  font-style: italic;
+}
